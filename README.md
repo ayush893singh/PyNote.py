@@ -49,7 +49,7 @@ python main.py
 
 ---
 # Example Output
-```text
+```
 ===== Simple Notes App =====
 
 1. Add Note
