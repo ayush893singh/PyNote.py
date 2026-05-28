@@ -57,15 +57,6 @@ python main.py
 3. Delete Note
 4. Exit
 ```
-# Conditions Used
-
-```python
-if len(notes) == 0:
-```
-
-Checks whether notes exist or not.
-
----
 # Future Improvements
 
 - Save notes to file
