@@ -1,8 +1,3 @@
-# QuickNotes
-A simple Notes App built with Python.  
-Users can add, view, and delete notes using a terminal-based menu system.
-
----
 # Features
 - Add notes
 - View notes
