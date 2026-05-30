@@ -61,4 +61,4 @@ python main.py
 
 ---
 # Author
-[Ayush Singh](https://github.com/ayush893singh)
+(https://github.com/ayush893singh)
