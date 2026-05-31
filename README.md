@@ -52,13 +52,5 @@ python main.py
 3. Delete Note
 4. Exit
 ```
-# Future Improvements
-
-- Save notes to file
-- Search notes
-- Edit notes
-- GUI version using Tkinter
-
----
 # Author
 (https://github.com/ayush893singh)
